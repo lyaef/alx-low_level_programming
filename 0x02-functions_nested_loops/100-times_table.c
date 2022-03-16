@@ -35,13 +35,13 @@ _putchar((z % 10) + '0');
 }
 else
 {
-if (y !=0)
+if (y != 0)
 {
 _putchar(',');
 _putchar(32);
 _putchar(32);
 _putchar(32);
-}    
+}
 _putchar(z + '0');
 }
 }
