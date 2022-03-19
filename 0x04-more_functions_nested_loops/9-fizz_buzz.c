@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Fizz for multiplies of 3 and Buzz for multiples of 5 FizzBuzz for both
+ * main - Fizz for multiples of 3 and Buzz for multiples of 5 FizzBuzz for both
  *
  *
  * Return: Always 0
