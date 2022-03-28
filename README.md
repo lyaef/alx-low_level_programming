@@ -1,1 +1,1 @@
-This is a new task which is more on nested loops
+A new project on pointers and arrays
