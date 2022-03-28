@@ -1,35 +1,3 @@
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming (master)
-$ cd 0x07-pointers_arrays_strings
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ ls
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ ls
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ cat > README.md
-A new project on ponters and arrays
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ cat > 0-memset.c
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming (master)
-$ cd 0x07-pointers_arrays_strings
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ ls
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ ls
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ cat > README.md
-A new project on ponters and arrays
-
-Abyssiniaaa@Abyssinia MINGW64 ~/alx-low_level_programming/0x07-pointers_arrays_strings (master)
-$ cat > 0-memset.c
 #include "main.h"
 
 /**
