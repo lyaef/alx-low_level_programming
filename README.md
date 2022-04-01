@@ -1,1 +1,1 @@
-This is a new project on recursion.
+A new project on static libraries.
